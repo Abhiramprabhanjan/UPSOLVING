@@ -1,7 +1,7 @@
-// package UPSOLVING.codeforces.contest_1028;
+package UPSOLVING.Codeforces.contest_1028;
 
 import java.util.*;
- public class GellyFish
+ public class Gelly
 {
     public static void main(String[] args) 
     {
@@ -28,4 +28,4 @@ import java.util.*;
     }
 
     
-}s
+}
